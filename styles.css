@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.div1, .div2 {
+    height: 100vh;
+}
+
+.div1 {
+    background-color: pink;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+.div2 {
+    background-color: salmon;
+}
+
+.square {
+    width: 6vw;
+    height: 6vw;
+    background-color: fuchsia;
+}
+
+.square2 {
+    width: 6vw;
+    height: 6vw;
+    background-color: blue;
+}
+
+.square3 {
+    width: 6vw;
+    height: 6vw;
+    background-color: red;
+}
